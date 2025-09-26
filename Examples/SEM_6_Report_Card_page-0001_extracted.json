@@ -1,0 +1,67 @@
+{
+  "student_name": "RAI TRAYAMBAK ANANDKUMAR",
+  "roll_number": "2205829",
+  "registration_number": "22397989683",
+  "programme": "B.Tech.(Computer Science and Engineering}",
+  "year_of_admission": "2022",
+  "semester": "6th",
+  "courses": [
+    {
+      "course_code": "CB1047",
+      "course_name": "Accounting for Everyone",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "course_code": "HS30401",
+      "course_name": "Universal Human Values",
+      "credits": 3,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS30002",
+      "course_name": "Artificial Intelligence",
+      "credits": 3,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS39002",
+      "course_name": "Artificial Intelligence Laboratory",
+      "credits": 4,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS33002",
+      "course_name": "Applications Development Laboratory",
+      "credits": 2,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS37001",
+      "course_name": "Mini Project",
+      "credits": 2,
+      "grade": "E"
+    },
+    {
+      "course_code": "CS30010",
+      "course_name": "Cloud Computing",
+      "credits": 3,
+      "grade": "B"
+    }
+  ],
+  "remarks": "PASS",
+  "sgpa": 8.75,
+  "cgpa": 8.41,
+  "cumulative_credits": 132,
+  "raw_text_hash": "0dd56a59e0976cb8a5d9f9e07df7a5bffb95faaf16c7c02fbf53a01ab011d427",
+  "credits": 24,
+  "credit_index": 210,
+  "cumulative_credit_index": 1110,
+  "document_image_hash": "b0557d20d4d5c1b6533edbf26118f0cb851619dd1688e184f8307de6b78221c2",
+  "ocr_engine": "pytesseract",
+  "_raw_text": "we Date:-22.07.2025, 06:46:17 PM\nKALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY (KIIT)\nDeemed to be University U/S 3 of the UGC Act, 1956\nSTUDENT COPY\nSEMESTER GRADE REPORT\nYEAR OF ADMISSION: 2022 SCHOOL OF COMPUTER ENGINEERING\nSTUDENT'S NAME ROLL NUMBER REGN. NUMBER SEMESTER\nRAI TRAYAMBAK ANANDKUMAR 2205829 22397989683 6th\nPROGRAMME :B.Tech.(Computer Science and Engineering}\nCOURSE NUMBER COURSE NAME couRee GRADE\nCB1047 Accounting for Everyone 3 A\nHS30401 Universal Human Values 3 E\nCS30002 Artificial Intelligence 3 E\n€S31002 Machine Learning 4 E\nCS39002 Artificial Intelligence Laboratory 4 E\nCS33002 Applications Development Laboratory 2 E\nCS37001 Mini Project 2 E\nCS30010 Cloud Computing 3 B\n©C30002 Economic Analysis of Decision Rules 3 °\nREMARKS - PASS\nCURRENT SEMESTER PERFORMANCE CUMULATIVE PERFORMANCE\nCREDITS CREDIT INDEX SGPA Cae) Ge Noe CGPA\n24 210 8.75 132 1,110 841\npe\nACADEMIC OFFICE CONTROLLER OF EXAMINATIONS",
+  "_meta": {
+    "public_ip": "34.90.165.38",
+    "processor": "ocr_certificate_extractor.py"
+  }
+}
