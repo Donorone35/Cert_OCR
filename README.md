@@ -30,14 +30,16 @@ It uses **pytesseract OCR**, **OpenCV**, and **PDF/image preprocessing** to hand
 ## Project Structure
 ```
 Cert_OCR/
-│── Examples/ # Sample inputs & usage scripts
-│ ├── sample_certificate.jpg
-│ └── example_run.py
-│── data/ # Optional certificate PDFs/images
-│── ocr_certificate_extractor.py # Main OCR script
+│── Examples/ # Sample inputs & JSON files
+│ ├── SEM_6_Report_Card.pdf
+│ ├── SEM_6_Report_Card_extracted.json
+│ ├── SEM_6_Report_Card_page-0001.jpg
+│ └── SEM_6_Report_Card_page-0001_extracted.json
+│── Cert_OCR.py # Main OCR script
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation
 │── LICENSE # MIT License
+
 ```
 
 ## Installation & Usage
