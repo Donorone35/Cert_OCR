@@ -48,6 +48,7 @@ Cert_OCR/
 ```bash
 git clone https://github.com/Donorone35/Cert_OCR.git
 cd Cert_OCR
+pip install -r requirements.txt
 ```
 
 ## **Contact**
